@@ -16,6 +16,7 @@ class Bio extends React.Component {
             dataJson {
               name
               profilePic
+              email
               bio
             }
           }
